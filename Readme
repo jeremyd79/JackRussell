@@ -1,7 +1,10 @@
-Readme File:  JackRussell repository
-
+README File:  JackRussell Repository
 
 This respository contains files to be reviewed for the programming apprentice position at Jack Russell Software.
 
-Application files include:
+Operating Instructions:
 
+	Resume:
+		Save Resume.hypertext and Resume.stylesheet files to desired location
+		Open Resume.hypertext
+		Copy file location of Resume.stylesheet and paste it in the href attribute of the link tag located in the head section of the document
